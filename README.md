@@ -12,6 +12,10 @@ Esse projeto é uma ETL para pegar dados de alugueis da OLX da região de grande
 
 Porém a base da dados extraída existe muito mais informações que podemos analisar.
 
+## Diagrama do fluxo ETL
+
+![diagrama pipeline](https://i.imgur.com/0G6m8wt.png)
+
 ## Instalação
 
 Para usar o código, siga os passos abaixo:
